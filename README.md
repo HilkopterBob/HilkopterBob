@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently working on **Kubernetes & My Homelab** and **a TextAdventure written in Python**
 
-- ⚡ Fun fact **I use Arch btw**
+- ⚡ Currently migrating to NixOS
 
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HilkopterBob&theme=tokyonight)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HilkopterBob&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
+![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HilkopterBob&theme=tokyonight)
 
-[![HilkopterBob's GitHub stats](https://github-readme-stats.vercel.app/api?username=HilkopterBob)](https://github.com/anuraghazra/github-readme-stats)
