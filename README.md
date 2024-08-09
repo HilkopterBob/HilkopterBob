@@ -3,7 +3,7 @@
 
 - 🔭 I’m working on **Kubernetes & My Homelab** and **a TextAdventure written in Python**
 
-- ⚡ I Currently migrate to NixOS for fun!
+- ⚡ I Currently learn Go 6 TypeScript!
 
 | GitHub Stats | Trophys |
 |----------|----------|
