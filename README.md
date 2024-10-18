@@ -1,6 +1,5 @@
 <img src="./github-header-image.png" align="center" alt="github profile header image">
 
-<h1 align="center">Hi 👋, I'm Nick</h1>
 <h3 align="center">A Hobby-Dev, Arch-based Linux/Kubernetes-Admin.</h3>
 
 - 🔭 I’m working on **Kubernetes & My Homelab** and **a TextAdventure written in Python**
