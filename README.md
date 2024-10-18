@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Nick</h1>
 <h3 align="center">A Hobby-Dev, Arch-based Linux/Kubernetes-Admin.</h3>
 
