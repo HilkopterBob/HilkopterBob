@@ -1,10 +1,3 @@
-<img src="./github-header-image.png" align="center" alt="github profile header image">
-
-<h3 align="center">A Hobby-Dev, Arch-based Linux/Kubernetes-Admin.</h3>
-
-- 🔭 I’m working on **Kubernetes & My Homelab** and **a TextAdventure written in Python**
-
-- ⚡ I Currently learn Go 6 TypeScript!
 
 | GitHub Stats | Trophys |
 |----------|----------|
